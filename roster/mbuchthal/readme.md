@@ -2,7 +2,7 @@
 
 Aspiring Software Developer
 
-Github: ![mbuchthal](www.github.com/mbuchthal)
+Github: ![mbuchthal](https://www.github.com/mbuchthal)
 
 LinkedIn: ![mbuchthal](https://www.linkedin.com/in/mbuchthal)
 

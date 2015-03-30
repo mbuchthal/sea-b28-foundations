@@ -4,7 +4,7 @@ Aspiring Software Developer
 
 Github: ![mbuchthal](https://github.com/mbuchthal)
 
-LinkedIn: ![mbuchthal](https://www.linkedin.com/pub/mark-buchthal/b5/739/7b/en)
+LinkedIn: ![mbuchthal](https://www.linkedin.com/in/mbuchhtal)
 
 Twitter: ![mbuchthal](https://www.twitter.com/mbuchthal)
 
